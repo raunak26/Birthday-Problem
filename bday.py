@@ -1,10 +1,6 @@
 # bday.py
 # Raunak Anand
-# ECS 36A Winter 2019
 # Simulation of Birthday Problem
-
-# 24 people are the minimum number of people required to get a probaility of atleast 0.5
-# 42 people are the minimum number of people required to get a probabilty of atleast 0.9
 
 import random
 
